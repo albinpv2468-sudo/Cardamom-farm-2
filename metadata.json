@@ -1,0 +1,6 @@
+{
+  "name": "Cardamom Farm Management",
+  "description": "Android-first commercial cardamom cultivation app with harvest tracking, pest diagnostics, offline sync, and AI agronomy assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
