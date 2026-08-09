@@ -1,0 +1,17 @@
+{
+  "short_name": "Cardamom Farm",
+  "name": "Cardamom Farm Management",
+  "icons": [
+    {
+      "src": "/src/assets/images/app_icon_1786115830717.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Android-first cardamom estate management app for harvest logs, pest diagnostics, offline sync, and AI agronomy assistant."
+}
